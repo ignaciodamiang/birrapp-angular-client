@@ -3,6 +3,6 @@ Clone the repository and then run `npm install`; once the dependencies are insta
 To have the backend running too you have to clone and run this repository:
 https://github.com/ignaciodamiang/birrapp-nodejs-api
 
-## Technologies:
+## Technologies and Tools:
 - Angular 12.2.7.
 - Bootstrap 5
